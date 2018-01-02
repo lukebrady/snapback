@@ -1,0 +1,5 @@
+{
+    "server" : "vcenter-dev.ung.co",
+    "size" : "30",
+    "retention" : "15"
+}
